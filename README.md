@@ -14,19 +14,18 @@ sudo apt-get install libssl-dev
 
 Boost 4.8
 ----------
+
 wget 'http://download.oracle.com/berkeley-db/db-4.8.30.NC.tar.gz'
 tar -xzvf db-4.8.30.NC.tar.gz
 cd db-4.8.30.NC/build_unix/
 ../dist/configure --enable-cxx --disable-shared --with-pic --prefix=/home/your_username/your_path/
 make install
-----------
 
 libdb4.8
 ----------
 sudo add-apt-repository ppa:bitcoin/bitcoin
 sudo apt-get update
 sudo apt-get install -y libdb4.8-dev libdb4.8++-dev
----------
 
 sudo apt-get install libboost-all-dev (1.5.x)
 sudo apt-get install libqrencode-dev
