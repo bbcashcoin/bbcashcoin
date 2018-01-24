@@ -52,5 +52,5 @@ Add rpcuser, rpcpassword & nodes @ conf
 
 Nodeserver:
 23.95.214.101
-23.95.11.84
+23.95.11.84 
  
