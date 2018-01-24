@@ -51,7 +51,7 @@ Add rpcuser, rpcpassword & nodes @ conf
 /home/your_username/.bbcashcoin/bbcashcoin.conf
 
 Nodeserver:
-23.95.214.101
+23.95.214.101 <br>
 23.95.11.84
 
  
