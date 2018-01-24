@@ -9,6 +9,8 @@ COMPILE INSTRUCTION:
 
 Ubuntu 14.04 LTS
 
+update & upgrade
+
 sudo apt-get install build-essential<br>
 sudo apt-get install libssl-dev
 
@@ -43,7 +45,7 @@ Compile & run
 ----------------
 make -f makefile.unix USE_UPNP=- USE_IPV6=1 BDB_INCLUDE_PATH='/usr/include/db4.8'<br>
 strip bbcashcoind<br>
-./bbcashcoind (src ordner)
+./bbcashcoind (src folder)
 
 Configuration
 -------------
